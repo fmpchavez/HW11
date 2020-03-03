@@ -19,7 +19,7 @@
             
 ## 📚 Usage 
  
- Runs on localhost:3000 and deployed via 
+ Runs on localhost:3000 and deployed via https://ancient-inlet-69035.herokuapp.com/
  
 ## 🙊 Languages Needed 
  
